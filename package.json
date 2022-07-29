@@ -1,0 +1,22 @@
+{
+  "name": "sdmtest",
+  "version": "1.0.0",
+  "description": "uploading on docker at AWS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijeetTake/SDMtest.git"
+  },
+  "author": "Abhijeet Take",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijeetTake/SDMtest/issues"
+  },
+  "homepage": "https://github.com/AbhijeetTake/SDMtest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
