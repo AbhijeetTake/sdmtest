@@ -36,5 +36,5 @@ app.get("/project",(req,res)=>{
     );
 });
 
-var server = app.listen(9000); //on port:9000
-console.log("running on PORT:9000");
+var server = app.listen(4000); //on port:9000
+console.log("running on PORT:4000");
